@@ -12,7 +12,7 @@ bitcoin generally moves first with altcoins moving slightly behind. As of 6/3/25
 difference between the altcoin trend line and the bitcoin trend line demonstrating bitcoin's current dominance.
 Based upon what we've seen before altcoins in this situation rapidly catch up and then generally outperform bitcoin which has happened twice before in previous
 cycles, you can see how in the past the relative peaks of altcoins during previous cycles top out relatively above bitcoin. I am not 100% sure if this decoupling
-is permanant or if it's a temporary divergence from the trend.
+is permanant or if it's a temporary divergence from the trend. Based upon history though odds are it's temporary.
 
 I also ran a rolling 90 day correlation graph for both altcoin where you can see the correlation between bitcoin and the indices generally increases during
 market pumps and decreases during sideways trading, suggesting that when traders buy in bulk many of them all generally buy in to multiple coins at the same time.
