@@ -24,6 +24,10 @@ coin and rather more important to trade the whole market as an average over a lo
 
 I am not sure why there are easy no tools online to easily overlay multiple price charts for different assets that would make it abundantly clear how heavily
 correlated all of the assets within the market are, it's literally that if a group of people are buying they are buying everything at the same time and not 
-favoring specific assets, and if they ARE favoring specific assets I am pretty sure that quickly reverts to the mean.
+favoring specific assets, and if they ARE favoring specific assets I am pretty sure that quickly reverts to the mean which is an arbitrage opportunity.
+
+I propose therefore a model where an index mean of highly correlated assets is taken, and then the divergence of of a specific asset's relative correlation
+to the overall mean, either above or below, is traded on, essentially pairs trading an indiviual asset against the overall market average. This is my next
+project.
 
 
